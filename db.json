@@ -1,0 +1,22 @@
+const db = {
+  users: [
+     {
+       firstName: "Georgi",
+      lastName: "Georgiev",
+      email: "goshu99@abv.bg",
+      age: 24
+     },
+     {
+       firstName: "Georgi",
+      lastName: "Georgiev",
+      email: "goshu99@abv.bg",
+      age: 24
+     },
+      {
+       firstName: "Georgi",
+      lastName: "Georgiev",
+      email: "goshu99@abv.bg",
+      age: 24
+     },
+  ]
+}
