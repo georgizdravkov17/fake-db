@@ -1,5 +1,5 @@
 const db = {
-  users: [
+  "users": [
      {
        firstName: "Georgi",
       lastName: "Georgiev",
@@ -17,6 +17,6 @@ const db = {
       lastName: "Georgiev",
       email: "goshu99@abv.bg",
       age: 24
-     },
+     }
   ]
 }
