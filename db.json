@@ -5,28 +5,32 @@
       "lastName": "Dimitrov",
       "email": "vankataa@abv.bg",
       "age": 24,
-       "isAdmin": false
+       "isAdmin": false,
+       "password": "1234567890"
      },
     {
        "firstName": "Georgi",
       "lastName": "Georgiev",
       "email": "goshu99@abv.bg",
       "age": 24,
-      "isAdmin": true
+      "isAdmin": true,
+      "password": "georgizdravkov1"
      },
     {
        "firstName": "Jeko",
       "lastName": "Tonchev",
       "email": "tekotonchev@abv.bg",
       "age": 24,
-      "isAdmin": false
+      "isAdmin": false,
+      "password": "1234567890"
      },
     {
        "firstName": "Petar",
       "lastName": "Petrov",
       "email": "petarpetrov@abv.bg",
       "age": 24,
-      "isAdmin": false
+      "isAdmin": false,
+       "password": "12345678"
      }
     
      
