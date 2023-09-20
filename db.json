@@ -34,5 +34,63 @@
      }
     
      
+  ],
+  "products": [
+    {
+      "name": "Iphone 14",
+      "price": 200,
+      "category": "Mobile phones",
+      "quantity": 20,
+      "discount": 0,
+      "orderedTimes": 200
+    },
+    {
+      "name": "Huawei 14",
+      "price": 200,
+      "category": "Mobile phones",
+      "quantity": 20,
+      "discount": 0,
+      "orderedTimes": 80
+    },
+    {
+      "name": "Nokia 14",
+      "price": 200,
+      "category": "Mobile phones",
+      "quantity": 20,
+      "discount": 0,
+      "orderedTimes": 5
+    },
+    {
+      "name": "Motorola 14",
+      "price": 200,
+      "category": "Mobile phones",
+      "quantity": 20,
+      "discount": 0,
+      "orderedTimes": 10
+    },
+    {
+      "name": "Alcatel 14",
+      "price": 200,
+      "category": "Mobile phones",
+      "quantity": 20,
+      "discount": 0,
+      "orderedTimes": 20
+    },
+    {
+      "name": "Samsung 14",
+      "price": 200,
+      "category": "Mobile phones",
+      "quantity": 20,
+      "discount": 0,
+      "orderedTimes": 50
+    },
+    {
+      "name": "Iphone 12",
+      "price": 200,
+      "category": "Mobile phones",
+      "quantity": 20,
+      "discount": 0,
+      "orderedTimes": 200
+    },
   ]
 }
