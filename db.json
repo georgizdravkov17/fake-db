@@ -38,7 +38,7 @@
   "products": [
     {
       "name": "Iphone 14",
-      "price": 200,
+      "price": 2000,
       "category": "Mobile phones",
       "quantity": 20,
       "discount": 0,
@@ -46,7 +46,7 @@
     },
     {
       "name": "Huawei 14",
-      "price": 200,
+      "price": 1000,
       "category": "Mobile phones",
       "quantity": 20,
       "discount": 0,
@@ -54,7 +54,7 @@
     },
     {
       "name": "Nokia 14",
-      "price": 200,
+      "price": 500,
       "category": "Mobile phones",
       "quantity": 20,
       "discount": 0,
@@ -70,7 +70,7 @@
     },
     {
       "name": "Alcatel 14",
-      "price": 200,
+      "price": 300,
       "category": "Mobile phones",
       "quantity": 20,
       "discount": 0,
@@ -78,7 +78,7 @@
     },
     {
       "name": "Samsung 14",
-      "price": 200,
+      "price": 400,
       "category": "Mobile phones",
       "quantity": 20,
       "discount": 0,
@@ -86,7 +86,7 @@
     },
     {
       "name": "Iphone 12",
-      "price": 200,
+      "price": 700,
       "category": "Mobile phones",
       "quantity": 20,
       "discount": 0,
