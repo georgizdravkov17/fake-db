@@ -65,7 +65,7 @@
       "id": "97d70086-9399-7194-faf8-2de68f6148f4",
       "name": "Iphone 14",
       "price": 2000,
-      "category": "Mobile phones",
+      "category": "woman",
       "quantity": 20,
       "discount": 0,
       "orderedTimes": 200
@@ -75,7 +75,7 @@
       "id": "3a8df152-f306-bed9-4765-131577a96e47",
       "name": "Huawei 14",
       "price": 1000,
-      "category": "Mobile phones",
+      "category": "man",
       "quantity": 20,
       "discount": 0,
       "orderedTimes": 80
@@ -85,7 +85,7 @@
       "id": "3a8df152-d306-bed9-4765-171577a56e47",
       "name": "Nokia 14",
       "price": 500,
-      "category": "Mobile phones",
+      "category": "woman",
       "quantity": 20,
       "discount": 0,
       "orderedTimes": 5
@@ -95,7 +95,7 @@
       "id": "3aatf152-d306-bed9-4765-171577a56e47",
       "name": "Motorola 14",
       "price": 200,
-      "category": "Mobile phones",
+      "category": "man",
       "quantity": 20,
       "discount": 0,
       "orderedTimes": 10
@@ -105,7 +105,7 @@
       "id": "3a8df152-d306-bty9-4765-171577a56e47",
       "name": "Alcatel 14",
       "price": 300,
-      "category": "Mobile phones",
+      "category": "woman",
       "quantity": 20,
       "discount": 0,
       "orderedTimes": 20
@@ -115,7 +115,7 @@
       "id": "3a8df152-d306-bed9-te65-171577a56e47",
       "name": "Samsung 14",
       "price": 400,
-      "category": "Mobile phones",
+      "category": "man",
       "quantity": 20,
       "discount": 0,
       "orderedTimes": 50
@@ -125,7 +125,67 @@
       "id": "3a8df152-d306-bed9-4765-1715gha56e47",
       "name": "Iphone 12",
       "price": 700,
-      "category": "Mobile phones",
+      "category": "woman",
+      "quantity": 20,
+      "discount": 0,
+      "orderedTimes": 200
+    },
+    {
+      "img": "https://cdncloudcart.com/30443/products/images/410/kismet-for-woman-63a4ddb943937_600x600.jpeg?1671749401",
+      "id": "3a8df152-d306-bed9-4765-1715gha56e47",
+      "name": "Iphone 12",
+      "price": 700,
+      "category": "woman",
+      "quantity": 20,
+      "discount": 0,
+      "orderedTimes": 200
+    },
+    {
+      "img": "https://cdncloudcart.com/30443/products/images/410/kismet-for-woman-63a4ddb943937_600x600.jpeg?1671749401",
+      "id": "3a8df152-d306-bed9-4765-1715gha56e47",
+      "name": "Iphone 12",
+      "price": 700,
+      "category": "woman",
+      "quantity": 20,
+      "discount": 0,
+      "orderedTimes": 200
+    },
+    {
+      "img": "https://cdncloudcart.com/30443/products/images/410/kismet-for-woman-63a4ddb943937_600x600.jpeg?1671749401",
+      "id": "3a8df152-d306-bed9-4765-1715gha56e47",
+      "name": "Iphone 12",
+      "price": 700,
+      "category": "woman",
+      "quantity": 20,
+      "discount": 0,
+      "orderedTimes": 200
+    },
+    {
+      "img": "https://cdncloudcart.com/30443/products/images/410/kismet-for-woman-63a4ddb943937_600x600.jpeg?1671749401",
+      "id": "3a8df152-d306-bed9-4765-1715gha56e47",
+      "name": "Iphone 12",
+      "price": 700,
+      "category": "woman",
+      "quantity": 20,
+      "discount": 0,
+      "orderedTimes": 200
+    },
+    {
+      "img": "https://cdncloudcart.com/30443/products/images/410/kismet-for-woman-63a4ddb943937_600x600.jpeg?1671749401",
+      "id": "3a8df152-d306-bed9-4765-1715gha56e47",
+      "name": "Iphone 12",
+      "price": 700,
+      "category": "woman",
+      "quantity": 20,
+      "discount": 0,
+      "orderedTimes": 200
+    },
+    {
+      "img": "https://cdncloudcart.com/30443/products/images/410/kismet-for-woman-63a4ddb943937_600x600.jpeg?1671749401",
+      "id": "3a8df152-d306-bed9-4765-1715gha56e47",
+      "name": "Iphone 12",
+      "price": 700,
+      "category": "woman",
       "quantity": 20,
       "discount": 0,
       "orderedTimes": 200
